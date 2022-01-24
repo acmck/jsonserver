@@ -1,0 +1,25 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "Bitcrushed Gavan",
+            "external_url": "https://dev.mdax.com",
+            "image": "https://storage.googleapis.com/mdax-p1-assets/269.c3d80af943b3e2be46319ae57ddab327e852aff3.preview.jpg",
+            "name": "Bitcrushed Gavan #0"
+        },
+        {
+            "id": 1,
+            "description": "Bitcrushed Gavan",
+            "external_url": "https://dev.mdax.com",
+            "image": "https://storage.googleapis.com/mdax-p1-assets/269.c3d80af943b3e2be46319ae57ddab327e852aff3.preview.jpg",
+            "name": "Bitcrushed Gavan #1"
+        },
+        {
+            "id": 2,
+            "description": "Bitcrushed Gavan",
+            "external_url": "https://dev.mdax.com",
+            "image": "https://storage.googleapis.com/mdax-p1-assets/269.c3d80af943b3e2be46319ae57ddab327e852aff3.preview.jpg",
+            "name": "Bitcrushed Gavan #2"
+        }
+    ]
+}
